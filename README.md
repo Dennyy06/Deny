@@ -18,9 +18,5 @@ Evenimentul de ursit este un prilej de a păstra tradițiile și obiceiurile pop
 
 Acest proiect este menit să ajute organizatorii evenimentului să coordoneze mai ușor activitățile, să aibă o platformă unde să colaboreze și să distribuie informații importante pentru participanți.
 
-## Instalare
 
-1. Clonează acest repository pe calculatorul tău:
-   ```bash
-   git clone https://github.com/username/eveniment-de-ursit.git
 
