@@ -1,0 +1,27 @@
+/* Fonturi și fundal */
+body {
+  font-family: 'Montserrat', sans-serif;
+  background: linear-gradient(to bottom, #2e026d, #000);
+  color: white;
+}
+
+/* Titluri cu font deosebit */
+h1, h2, h3 {
+  font-family: 'Great Vibes', cursive;
+}
+
+/* Efect fade-in */
+.fade-in {
+  animation: fadeIn 2s ease-in-out;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
